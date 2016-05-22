@@ -1,5 +1,7 @@
 {
   "name": "serverless-mcdd16",
   "custom": {},
-  "plugins": []
+  "plugins": [
+    "serverless-cors-plugin"
+  ]
 }
