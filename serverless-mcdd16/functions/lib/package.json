@@ -1,0 +1,8 @@
+{
+  "name": "persons-functions-lib",
+  "version": "0.1.0",
+  "dependencies": {
+    "aws-sdk": "^2.3.14",
+    "uuid": "^2.0.2"
+  }
+}
